@@ -23,5 +23,6 @@
     <Project Path="src/Shared/Shared.Abstractions/Shared.Abstractions.csproj" />
     <Project Path="src/Shared/Shared.Infrastructure/Shared.Infrastructure.csproj" />
   </Folder>
-  <Project Path="FolioVox.Host/FolioVox.Host.csproj" />
+  <Project Path="FolioVox.Api/FolioVox.Api.csproj" />
+  <Project Path="FolioVox.AppHost/FolioVox.AppHost.csproj" />
 </Solution>
